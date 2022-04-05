@@ -1,0 +1,214 @@
+-------------------------------------------------------------------
+     Recipient: Vinny O'Brian             Blood Type: O-
+     Donor    : Terri Fierce              Blood Type: O-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Paudge Murphy             Blood Type: O-
+     Donor    : Michael Smith             Blood Type: O-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Joanne Byrne              Blood Type: O-
+     Donor    : Davi Rocha                Blood Type: O-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Erin O'Brien              Blood Type: O-
+     Donor    : Alan Eustace              Blood Type: O-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Boris Hanic               Blood Type: B-
+     Donor    : Jenny Smiedel             Blood Type: B-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Adam Roche                Blood Type: A-
+     Donor    : Stephanie Sentuc          Blood Type: A-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: John Travers              Blood Type: A-
+     Donor    : Byron Raleigh             Blood Type: A-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Dan Mac                   Blood Type: AB-
+     Donor    : Emma Casey                Blood Type: AB-
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Radomir Sudworth          Blood Type: O+
+     Donor    : Rena Kipling              Blood Type: O+
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Kevin Read                Blood Type: O+
+     Donor    : Regina White              Blood Type: O+
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Ryan White                Blood Type: O+
+     Donor    : Damian Leonard            Blood Type: O+
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Emma Cuddihy              Blood Type: O+
+     Donor    : Rybar Lukas               Blood Type: O+
+     Date     : 5 May 2021
+-------------------------------------------------------------------
+     Recipient: Thomas Petrik             Blood Type: O+
+     Donor    : Tyron Warren              Blood Type: O+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Romulo Chuster            Blood Type: O+
+     Donor    : Aoifa Ryan                Blood Type: O+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Adan Landa                Blood Type: O+
+     Donor    : Docia Herberts            Blood Type: O+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Rafael Santos             Blood Type: O+
+     Donor    : Ladislava Fuller          Blood Type: O+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Barry Harte               Blood Type: B+
+     Donor    : Lisette Kroll             Blood Type: B+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Edward Dormer             Blood Type: B+
+     Donor    : Leanne Cummis             Blood Type: B+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Tammy Hand                Blood Type: B+
+     Donor    : Veva Carman               Blood Type: B+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Vicki Ceriani             Blood Type: B+
+     Donor    : Royalty Virgo             Blood Type: B+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Robert Atkinson           Blood Type: A+
+     Donor    : Jessie Adams              Blood Type: A+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Patrick Sawyer            Blood Type: A+
+     Donor    : Gareth Thompson           Blood Type: A+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Donald Peters             Blood Type: A+
+     Donor    : Orrell Pocock             Blood Type: A+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Kevin Cleere              Blood Type: A+
+     Donor    : Nettie Gardener           Blood Type: A+
+     Date     : 6 May 2021
+-------------------------------------------------------------------
+     Recipient: Robert Kochan             Blood Type: A+
+     Donor    : Elias Swanson             Blood Type: A+
+     Date     : 7 May 2021
+-------------------------------------------------------------------
+     Recipient: Vasi Horoge               Blood Type: AB+
+     Donor    : Conor Wakely              Blood Type: AB+
+     Date     : 7 May 2021
+-------------------------------------------------------------------
+     Recipient: Stephen Browne            Blood Type: O-
+     Donor    : Terri Fierce              Blood Type: O-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Seamus Redmond            Blood Type: O-
+     Donor    : Michael Smith             Blood Type: O-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Johny Fox                 Blood Type: O-
+     Donor    : Davi Rocha                Blood Type: O-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Dan Pesta                 Blood Type: O-
+     Donor    : Alan Eustace              Blood Type: O-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Audrey White              Blood Type: B-
+     Donor    : Jenny Smiedel             Blood Type: B-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Jan Stacho                Blood Type: A-
+     Donor    : Stephanie Sentuc          Blood Type: A-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Stephen Porter            Blood Type: A-
+     Donor    : Byron Raleigh             Blood Type: A-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Tom Ryan                  Blood Type: AB-
+     Donor    : Emma Casey                Blood Type: AB-
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Julia Netch               Blood Type: O+
+     Donor    : Rena Kipling              Blood Type: O+
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Trena Murphy              Blood Type: O+
+     Donor    : Regina White              Blood Type: O+
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Sean Davitt               Blood Type: O+
+     Donor    : Damian Leonard            Blood Type: O+
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Robert Peter              Blood Type: O+
+     Donor    : Rybar Lukas               Blood Type: O+
+     Date     : 30 Jun 2021
+-------------------------------------------------------------------
+     Recipient: Adonias Miranda           Blood Type: O+
+     Donor    : Tyron Warren              Blood Type: O+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Nicolas Casanova          Blood Type: O+
+     Donor    : Aoifa Ryan                Blood Type: O+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Hannah Cush               Blood Type: O+
+     Donor    : Docia Herberts            Blood Type: O+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Keara Lydon               Blood Type: O+
+     Donor    : Ladislava Fuller          Blood Type: O+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Shauna Palmer             Blood Type: B+
+     Donor    : Lisette Kroll             Blood Type: B+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Attila Racz               Blood Type: B+
+     Donor    : Leanne Cummis             Blood Type: B+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Drago Vrago               Blood Type: B+
+     Donor    : Veva Carman               Blood Type: B+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Rahul Sharma              Blood Type: B+
+     Donor    : Royalty Virgo             Blood Type: B+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Gavin Rossiter            Blood Type: A+
+     Donor    : Jessie Adams              Blood Type: A+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Peter Babac               Blood Type: A+
+     Donor    : Gareth Thompson           Blood Type: A+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: James Sinnott             Blood Type: A+
+     Donor    : Orrell Pocock             Blood Type: A+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Curtis Dailey             Blood Type: A+
+     Donor    : Nettie Gardener           Blood Type: A+
+     Date     : 1 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Mateusz Swist             Blood Type: A+
+     Donor    : Elias Swanson             Blood Type: A+
+     Date     : 2 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Teddy O'Connor            Blood Type: AB+
+     Donor    : Conor Wakely              Blood Type: AB+
+     Date     : 2 Jul 2021
+-------------------------------------------------------------------
+     Recipient: Tom Extra                 Blood Type: O-
+     Donor    : Terri Fierce              Blood Type: O-
+     Date     : 25 Aug 2021
+-------------------------------------------------------------------
+
